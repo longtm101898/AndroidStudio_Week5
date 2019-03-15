@@ -1,0 +1,5 @@
+<root>
+    <item name='com.basgeekball.awesomevalidation.utility.custom.CustomValidation'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>

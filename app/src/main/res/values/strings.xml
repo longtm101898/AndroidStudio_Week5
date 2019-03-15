@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Student</string>
+
+    <string name="sId">Id</string>
+    <string name="sName">Name</string>
+    <string name="sGender">Gender</string>
+    <string name="sDob">Date of birth</string>
+    <string name="sEmail">Email</string>
+    <string name="sPhone">Phone</string>
+    <string name="btnChangeDate">Change Date</string>
+    <string name="btnSubmit">Submit</string>
+
+    <string name="nameRequired">Please input name</string>
+    <string name="dimensionRequired">Please input dimension</string>
+    <string name="priceRequired">Please input price</string>
+    <string name="errType">Please select type</string>
+    <string name="errFeat">Please select feature</string>
+</resources>
